@@ -69,7 +69,7 @@ HIB is a popular visa for foreign students trying to get on the USA job market b
 
 **Deliverable**: A model to predict likelihood of obtaining an HIB visa based on job characteristics
 
-10. PROBABILITY OF CO2 CROSSING (Achilles)
+**10. PROBABILITY OF CO2 CROSSING (Achilles)**
 Calculate the probability of crossing a determined threshold of CO2 given current CO2 emission and projected changes.
 Compare this simple model to complex NASA predictions
 
