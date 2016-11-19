@@ -50,7 +50,7 @@ Measure the power of a single vote given the size of the elctoral college. Map t
 demographic/socioeconoimc modeling of electoral outcome based on exit polls
 Exit poll data exists and was pre-rpcessed by Misha/Stan
 
-*Data*:
+*Data*: https://github.com/mal824/Election2016
 
 **Deliverable**: Processing of the New England exit polls for integration on the national dataset. Model votes based on socioeconomics
 
