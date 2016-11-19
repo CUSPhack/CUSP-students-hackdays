@@ -55,4 +55,8 @@ Compare this simple model to complex NASA predictions
 Map the safety score provided by MTA. Correate the safety score to actual crime rate for various crimes. Mape the safest routes based on kind of crime
 **Deliverable**: Interactive map. Reliability of MTA safety score.
 
+12. PROPERTY TAXES (Keith)
+Model the property taxes imbalance as a function of socioeconomic status
+**Deliverable**: A map or property taxes and comparison maps of income/socioeconomic status. A correlation/model of property taxes dependency on socioeconomic drivers
+
 
