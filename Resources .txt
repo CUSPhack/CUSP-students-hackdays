@@ -1,0 +1,3 @@
+stack overflow to see if a lat/log is contained in a shape
+
+http://stackoverflow.com/questions/7861196/check-if-a-geopoint-with-latitude-and-longitude-is-within-a-shapefile
