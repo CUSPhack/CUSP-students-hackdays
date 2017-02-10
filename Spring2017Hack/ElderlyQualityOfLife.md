@@ -22,9 +22,15 @@ To the best of our knowledge, there are no NYC neighborhood profiles that are ta
 Potential Data Sources
 
 Data Facility Open Trip Planner 
+
 Data Facility df_spatial database
+
 NYC Selected Facilities
+
 Various neighborhood-level data files in the CDF Catalog
+
 NYU’s Furman Center data holdings
+
 NYC Department of Health data
+
 NYC Department of Health and Mental Hygiene data
