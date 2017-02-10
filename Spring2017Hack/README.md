@@ -40,15 +40,15 @@ http://data.un.org/Data.aspx?d=UNHCR&f=indID%3AType-Ref
 
 map the flow of refugees, origin/destination, in the US in recent years
 
-** pedestrian counts **
+**pedestrian counts**
 
 see how pedestrian counts reflect the neighbourhood characteristics (commercial/turistic)
 
-** wensday mobility **
+**wensday mobility**
 
 in pedestrian counts there is a 9low significance) wednesday dip. Can a dip be found in other data (e.g. Taxi, Uber, citibike)
 
-** sentiment analysis of neighborhood **
+**sentiment analysis of neighborhood**
 
 does the sentiment of geotagged tweets reflect the nature of the neighborhood (residential vs commertial vs turistic)
 
