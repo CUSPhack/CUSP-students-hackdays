@@ -1,6 +1,6 @@
 ***February 10, 2017: Hacks pitched:***
 
-**Elderly Quality of Life (Rebecca R.)**
+-  **Elderly Quality of Life (Rebecca R.)**
 
 Develope a quality of life for elderly metric and map NYC according to it
 
@@ -23,7 +23,7 @@ NYC Department of Health data
 NYC Department of Health and Mental Hygiene data
 
 
-**TOBACCO**
+- **TOBACCO**
 distribution of tobacco retailer: does it reflect any socioeconomic trait of NYC?
 
 https://health.data.ny.gov/Health/Active-Tobacco-Retailer-Map/88k2-euek
@@ -31,7 +31,7 @@ https://health.data.ny.gov/Health/Active-Tobacco-Retailer-Map/88k2-euek
 Census data
 
 
-**Refugees**
+- **Refugees**
 
 https://www.acf.hhs.gov/orr/resource/refugee-arrival-data
 
@@ -41,15 +41,15 @@ http://data.un.org/Data.aspx?d=UNHCR&f=indID%3AType-Ref
 
 map the flow of refugees, origin/destination, in the US in recent years
 
-**pedestrian counts**
+- **pedestrian counts**
 
 see how pedestrian counts reflect the neighbourhood characteristics (commercial/turistic)
 
-**wensday mobility**
+- **wednsday mobility**
 
 in pedestrian counts there is a 9low significance) wednesday dip. Can a dip be found in other data (e.g. Taxi, Uber, citibike)
 
-**sentiment analysis of neighborhood**
+- **sentiment analysis of neighborhood**
 
 does the sentiment of geotagged tweets reflect the nature of the neighborhood (residential vs commertial vs turistic)
 
