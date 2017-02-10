@@ -24,6 +24,7 @@ NYC Department of Health and Mental Hygiene data
 
 
 **TOBACCO**
+distribution of tobacco retailer: does it reflect any socioeconomic trait of NYC?
 
 https://health.data.ny.gov/Health/Active-Tobacco-Retailer-Map/88k2-euek
 
